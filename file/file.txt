@@ -1,0 +1,34 @@
+Python 3 Module of the Week
+PyMOTW-3 is a series of articles written by Doug Hellmann to demonstrate how to use the modules of the Python 3 standard library. It is based on the original PyMOTW series, which covered Python 2.7. See About Python Module of the Week for details including the version of Python and tools used.
+
+Text
+string ¡ª Text Constants and Templates
+textwrap ¡ª Formatting Text Paragraphs
+re ¡ª Regular Expressions
+difflib ¡ª Compare Sequences
+Data Structures
+enum ¨C Enumeration Type
+collections ¡ª Container Data Types
+array ¡ª Sequence of Fixed-type Data
+heapq ¨C Heap Sort Algorithm
+bisect ¡ª Maintain Lists in Sorted Order
+queue ¡ª Thread-Safe FIFO Implementation
+struct ¡ª Binary Data Structures
+weakref ¡ª Impermanent References to Objects
+copy ¡ª Duplicate Objects
+pprint ¡ª Pretty-Print Data Structures
+Algorithms
+functools ¡ª Tools for Manipulating Functions
+itertools ¡ª Iterator Functions
+operator ¡ª Functional Interface to Built-in Operators
+contextlib ¡ª Context Manager Utilities
+Dates and Times
+time ¡ª Clock Time
+datetime ¡ª Date and Time Value Manipulation
+calendar ¡ª Work with Dates
+Mathematics
+decimal ¡ª Fixed and Floating Point Math
+fractions ¡ª Rational Numbers
+random ¡ª Pseudorandom Number Generators
+math ¡ª Mathematical Functions
+statistics ¡ª Statistical Calculations
