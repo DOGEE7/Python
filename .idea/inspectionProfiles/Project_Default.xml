@@ -1,0 +1,45 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+          <option value="W391" />
+          <option value="E116" />
+          <option value="E501" />
+          <option value="E114" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="format" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Chapter1基础知识.基础知识.forward" />
+          <option value="Chapter1基础知识.基础知识.left" />
+          <option value="Chapter1基础知识.基础知识.right" />
+          <option value="Chapter1基础知识.基础知识.penup" />
+          <option value="Chapter1基础知识.基础知识.pendown" />
+          <option value="Chapter2列表和元祖.edward" />
+          <option value="Chapter2列表和元祖.john" />
+          <option value="Chapter2列表和元祖.database" />
+          <option value="chapter13数据库编程接口API.name" />
+          <option value="chapter13数据库编程接口API.起步.field_count" />
+          <option value="Chapter15Python和Web.Secretive._Serective__inaccessable" />
+          <option value="Chapter20自动添加标签.simple_markup.util" />
+          <option value="Chapter20自动添加标签.simple_markup.blocks" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
